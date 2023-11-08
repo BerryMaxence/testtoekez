@@ -2,7 +2,7 @@
 /**
  * Décrivez votre classe RobotV2 ici.
  *
- * @author (votre nom)
+ * @author (votre nom)jnezfjkfzejkfze
  * @version (un numéro de version ou une date)
  */
 public class Robot
